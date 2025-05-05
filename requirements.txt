@@ -71,7 +71,8 @@ Deprecated==1.2.15
 dill==0.3.8
 distlib==0.3.9
 distro==1.9.0
-Django==5.1.5
+Django==5.0.14
+
 dnspython==2.7.0
 docker==7.1.0
 docx2txt==0.8
@@ -221,10 +222,8 @@ msoffcrypto-tool==5.4.2
 multidict==6.1.0
 multiprocess==0.70.16
 mypy-extensions==1.0.0
-mysql==0.0.3
-mysql-connector==2.2.9
-mysql-connector-python==9.2.0
-mysqlclient==2.2.7
+
+
 namex==0.0.8
 narwhals==1.33.0
 nbclient==0.10.2
@@ -308,7 +307,7 @@ PyJWT==2.10.1
 pymdown-extensions==10.14.2
 pymilvus==2.5.0
 pymongo==4.11.3
-PyMySQL==1.1.1
+
 pypandoc==1.13
 pyparsing==3.2.1
 pypdf==4.3.1
@@ -332,7 +331,7 @@ python-pptx==1.0.0
 python-socketio==5.11.3
 pytube==15.0.0
 pytz==2024.2
-
+pymysql==1.0.2
 pywinpty==2.0.15
 pyxlsb==1.0.10
 PyYAML==6.0.2
